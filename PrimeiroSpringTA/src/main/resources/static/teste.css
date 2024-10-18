@@ -1,0 +1,25 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 3 de out. de 2024, 21:49:29
+    Author     : 24167306
+*/
+
+h1{
+    font-style: italic;
+}
+h2{
+    font-style: italic;
+    color: red;
+}
+h3{
+    color: blueviolet;
+}
+#fundo{
+    background-color: lavenderblush;
+}
+.paragrafo{
+    color:blue;
+}
