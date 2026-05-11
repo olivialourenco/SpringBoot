@@ -1,4 +1,4 @@
-# PrimeiroSpringTA
+# PrimeiroSpringTA - Projeto educacional
 
 Aplicação web didática construída com Spring Boot, Thymeleaf e MySQL para demonstrar um fluxo simples de cadastro e consulta de dados em banco relacional.
 
